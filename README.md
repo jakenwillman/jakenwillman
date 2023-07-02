@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jake Willman!
 - 👀 I’m interested in - Web Development & Software Engineering
-- 🌱 I’m currently learning - HTML, CSS & JavaScript!
+- 🌱 I’m currently learning - HTML, CSS, JavaScript, TypeScript, Java & React!
 - 💞️ I’m looking to collaborate on anything that will further my learning!
 - 📫 How to reach me! - jakenwillman@gmail.com 
 
